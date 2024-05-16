@@ -1,0 +1,14 @@
+﻿  Juego.cpp
+C:\Users\zenbook\source\repos\Mavi 2 ejercicio 6\Mavi 2 ejercicio 6\Juego.cpp(30,73): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\zenbook\source\repos\Mavi 2 ejercicio 6\Mavi 2 ejercicio 6\Juego.cpp(30,73): warning C4244:         with
+C:\Users\zenbook\source\repos\Mavi 2 ejercicio 6\Mavi 2 ejercicio 6\Juego.cpp(30,73): warning C4244:         [
+C:\Users\zenbook\source\repos\Mavi 2 ejercicio 6\Mavi 2 ejercicio 6\Juego.cpp(30,73): warning C4244:             T=float
+C:\Users\zenbook\source\repos\Mavi 2 ejercicio 6\Mavi 2 ejercicio 6\Juego.cpp(30,73): warning C4244:         ]
+C:\Users\zenbook\source\repos\Mavi 2 ejercicio 6\Mavi 2 ejercicio 6\Juego.cpp(30,52): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\zenbook\source\repos\Mavi 2 ejercicio 6\Mavi 2 ejercicio 6\Juego.cpp(30,52): warning C4244:         with
+C:\Users\zenbook\source\repos\Mavi 2 ejercicio 6\Mavi 2 ejercicio 6\Juego.cpp(30,52): warning C4244:         [
+C:\Users\zenbook\source\repos\Mavi 2 ejercicio 6\Mavi 2 ejercicio 6\Juego.cpp(30,52): warning C4244:             T=float
+C:\Users\zenbook\source\repos\Mavi 2 ejercicio 6\Mavi 2 ejercicio 6\Juego.cpp(30,52): warning C4244:         ]
+  Mavi 2 ejercicio 6.cpp
+  Generando código...
+  Mavi 2 ejercicio 6.vcxproj -> C:\Users\zenbook\source\repos\Mavi 2 ejercicio 6\x64\Debug\Mavi 2 ejercicio 6.exe

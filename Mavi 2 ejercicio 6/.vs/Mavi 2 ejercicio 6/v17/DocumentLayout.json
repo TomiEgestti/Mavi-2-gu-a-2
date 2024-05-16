@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zenbook\\source\\repos\\Mavi 2 ejercicio 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00911468-AA93-41A8-9ED5-8A6F16321721}|Mavi 2 ejercicio 6\\Mavi 2 ejercicio 6.vcxproj|C:\\Users\\zenbook\\source\\repos\\Mavi 2 ejercicio 6\\Mavi 2 ejercicio 6\\Juego.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00911468-AA93-41A8-9ED5-8A6F16321721}|Mavi 2 ejercicio 6\\Mavi 2 ejercicio 6.vcxproj|solutionrelative:Mavi 2 ejercicio 6\\Juego.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00911468-AA93-41A8-9ED5-8A6F16321721}|Mavi 2 ejercicio 6\\Mavi 2 ejercicio 6.vcxproj|C:\\Users\\zenbook\\source\\repos\\Mavi 2 ejercicio 6\\Mavi 2 ejercicio 6\\Juego.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00911468-AA93-41A8-9ED5-8A6F16321721}|Mavi 2 ejercicio 6\\Mavi 2 ejercicio 6.vcxproj|solutionrelative:Mavi 2 ejercicio 6\\Juego.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00911468-AA93-41A8-9ED5-8A6F16321721}|Mavi 2 ejercicio 6\\Mavi 2 ejercicio 6.vcxproj|C:\\Users\\zenbook\\source\\repos\\Mavi 2 ejercicio 6\\Mavi 2 ejercicio 6\\Mavi 2 ejercicio 6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00911468-AA93-41A8-9ED5-8A6F16321721}|Mavi 2 ejercicio 6\\Mavi 2 ejercicio 6.vcxproj|solutionrelative:Mavi 2 ejercicio 6\\Mavi 2 ejercicio 6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Juego.h",
+              "DocumentMoniker": "C:\\Users\\zenbook\\source\\repos\\Mavi 2 ejercicio 6\\Mavi 2 ejercicio 6\\Juego.h",
+              "RelativeDocumentMoniker": "Mavi 2 ejercicio 6\\Juego.h",
+              "ToolTip": "C:\\Users\\zenbook\\source\\repos\\Mavi 2 ejercicio 6\\Mavi 2 ejercicio 6\\Juego.h",
+              "RelativeToolTip": "Mavi 2 ejercicio 6\\Juego.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-16T00:09:34.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Juego.cpp",
+              "DocumentMoniker": "C:\\Users\\zenbook\\source\\repos\\Mavi 2 ejercicio 6\\Mavi 2 ejercicio 6\\Juego.cpp",
+              "RelativeDocumentMoniker": "Mavi 2 ejercicio 6\\Juego.cpp",
+              "ToolTip": "C:\\Users\\zenbook\\source\\repos\\Mavi 2 ejercicio 6\\Mavi 2 ejercicio 6\\Juego.cpp",
+              "RelativeToolTip": "Mavi 2 ejercicio 6\\Juego.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-16T00:13:06.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mavi 2 ejercicio 6.cpp",
+              "DocumentMoniker": "C:\\Users\\zenbook\\source\\repos\\Mavi 2 ejercicio 6\\Mavi 2 ejercicio 6\\Mavi 2 ejercicio 6.cpp",
+              "RelativeDocumentMoniker": "Mavi 2 ejercicio 6\\Mavi 2 ejercicio 6.cpp",
+              "ToolTip": "C:\\Users\\zenbook\\source\\repos\\Mavi 2 ejercicio 6\\Mavi 2 ejercicio 6\\Mavi 2 ejercicio 6.cpp",
+              "RelativeToolTip": "Mavi 2 ejercicio 6\\Mavi 2 ejercicio 6.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-15T23:59:55.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
